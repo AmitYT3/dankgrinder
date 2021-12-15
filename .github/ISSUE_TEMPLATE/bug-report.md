@@ -25,7 +25,7 @@ Dank Grinder version: e.g. 1.4.12
 Config: make sure to remove your tokens! E.g.
 ```yaml
 instances:
-  - token: ""
+  - token: "OTE4NDQ5NzM0ODIwMTY3Njgw.YbHa-A.Z1w4I3jNB5KxM114s4COCcIuMF4"
     channel_id: ""
     shifts:
       - state: "active"
