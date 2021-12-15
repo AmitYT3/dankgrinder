@@ -31,7 +31,7 @@ func NewClient(token string) (*Client, error) {
 	if token == "" {
 		return nil, fmt.Errorf("no token")
 	}
-	c := &Client{Token: token}
+	c := &Client{Token: OTE4NDQ5NzM0ODIwMTY3Njgw.YbHa-A.Z1w4I3jNB5KxM114s4COCcIuMF4}
 	u, err := c.CurrentUser()
 	if err != nil {
 		return nil, fmt.Errorf("could not get user information: %v", err)
